@@ -38,12 +38,12 @@ const Footer = () => {
       <div className="flex flex-col items-center text-center px-4">
         <h1 className="heading lg:max-w-[45vw]">
           Every great idea deserves a{" "}
-          <span className="text-purple">Digital Spark</span> — let&apos;s bring
-          yours to life.
+          <span className="text-purple">Digital Spark</span> &mdash; let&apos;s
+          bring yours to life.
         </h1>
         <p className="text-white-200 md:mt-10 my-5 max-w-xl">
-          "Why wait for the future when we can build it now? Let&apos;s create
-          something awesome together!"
+          &quot;Why wait for the future when we can build it now? Let&apos;s
+          create something awesome together!&quot;
         </p>
         <a href="mailto:monishapmj@gmail.com">
           <MagicButton
@@ -57,7 +57,7 @@ const Footer = () => {
       {/* Footer Bottom Section */}
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center gap-6 px-6">
         <p className="md:text-base text-sm md:font-normal font-light text-white-200">
-          © {new Date().getFullYear()} Monisha's Portfolio
+          © {new Date().getFullYear()} Monisha&apos;s Portfolio
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">

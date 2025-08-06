@@ -133,24 +133,25 @@ export const testimonials = [
     quote:
       "It’s easy to think of UX as just design, but real user experience starts with performance and clean API responses. I dive into how thoughtful backend architecture makes frontend smoother, faster, and smarter — and why full stack developers need both perspectives.",
     name: "Monisha Jayakumar",
-    //title: "Director of AlphaStream Technologies",
+    title: "Full Stack Developer",
   },
   {
     quote:
       "Sometimes, building a real-world app teaches you more than any course. I walk through five projects — a task manager, a blog CMS, an e-commerce store, and more — and the lessons they taught me about debugging, refactoring, and thinking like a user.",
     name: "Monisha Jayakumar",
-    //title: "Director of AlphaStream Technologies",
+    title: "Web Developer & Project Builder",
   },
   {
     quote:
       "Every developer starts somewhere. For me, it began with curiosity and evolved into crafting full web ecosystems. From debugging CSS to deploying backend APIs, every challenge shaped my skills. This blog shares how I embraced both sides of the stack and found balance in building.",
     name: "Monisha Jayakumar",
+    title: "Tech Enthusiast & Engineer",
   },
   {
     quote:
       "Sometimes, building a real-world app teaches you more than any course. I walk through five projects — a task manager, a blog CMS, an e-commerce store, and more — and the lessons they taught me about debugging, refactoring, and thinking like a user.",
     name: "Monisha Jayakumar",
-    //title: "Director of AlphaStream Technologies",
+    title: "Software Creator",
   },
 ];
 
