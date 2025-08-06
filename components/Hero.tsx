@@ -45,7 +45,7 @@ const Hero = () => {
           {/* Right: Text */}
           <div className="flex flex-col items-center md:items-start text-center md:text-left space-y-3">
             <p className="uppercase tracking-widest text-sm text-blue-100">
-              HI, I'M
+              HI, I&apos;M
             </p>
 
             <TextGenerateEffect
