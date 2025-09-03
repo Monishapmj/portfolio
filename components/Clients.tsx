@@ -62,7 +62,7 @@ const Clients = () => {
     <section id="testimonials" className="py-20">
       <h1 className="heading">
         Here is my few <br />
-        <span className="text-purple"> HOBBIES</span>
+        <span className="text-purple"> BLOGS</span>
       </h1>
 
       <div className="flex flex-col items-center max-lg:mt-10">
