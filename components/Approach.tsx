@@ -15,7 +15,7 @@ const Approach = () => {
         {/* add des prop */}
         <Card
           title="Analytical Thinking & Problem Solving"
-          icon={<AceternityIcon order="Phase 1" />}
+          icon={<AceternityIcon order="Pillar 1" />}
           des="I enjoy breaking down complex problems into manageable parts and finding efficient, scalable solutions. Whether it’s debugging code, optimizing logic, or solving real-world challenges through tech, I approach each problem with a structured mindset and a curiosity to understand the why behind it"
         >
           <CanvasRevealEffect
@@ -26,7 +26,7 @@ const Approach = () => {
         </Card>
         <Card
           title="Team Collaboration & Communication"
-          icon={<AceternityIcon order="Phase 2" />}
+          icon={<AceternityIcon order="Pillar 2" />}
           des="I believe great ideas come to life when people work together. I value open communication, sharing knowledge, and supporting team members to achieve a common goal. From brainstorming sessions to agile development, I thrive in collaborative environments where learning is mutual and growth is collective"
         >
           <CanvasRevealEffect
@@ -46,7 +46,7 @@ const Approach = () => {
         </Card>
         <Card
           title="Adaptability & Continuous Learning"
-          icon={<AceternityIcon order="Phase 3" />}
+          icon={<AceternityIcon order="Pillar 3" />}
           des="In the fast-evolving world of technology, staying updated is key. I’m always eager to learn new frameworks, tools, and trends. Whether it’s picking up a new language or diving into a new domain like AI or IoT, I quickly adapt and push myself beyond the comfort zone to stay ahead in the field."
         >
           <CanvasRevealEffect
